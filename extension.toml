@@ -3,8 +3,8 @@ name = "42 Header"
 description = "Insert and auto-update 42 school headers. Configure via ~/.config/42header/config.toml or Zed settings. Use Cmd+. to insert."
 version = "0.2.0"
 schema_version = 1
-authors = ["42 Header Zed Contributors"]
-repository = "https://github.com/42-header-zed/42-header-zed"
+authors = ["MazeWave <louisdalmasso2003@gmail.com>"]
+repository = "https://github.com/MazeWave/42-header-zed"
 
 [language_servers.header-42-lsp]
 name = "42 Header LSP"
